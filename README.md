@@ -43,12 +43,11 @@ The goal of this analysis was to investigate how insurance charges vary across d
 
 ### Average Insurance Charges by Age Group
 
-*Visualization will be added here.*
+![Average Insurance Charges by Age Group](average_charges_by_age_group.png)
 
 ### Average Insurance Charges by Number of Children
 
-*Visualization will be added here.*
-
+![Average Insurance Charges by Number of_Children](average_charges_by_children.png)
 ## Statistical Analysis
 
 A multiple linear regression model was used to examine whether age and BMI could predict insurance charges.
