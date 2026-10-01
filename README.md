@@ -1,5 +1,3 @@
-# health-insurance-charges-analysis
-Exploratory data analysis and statistical analysis of medical insurance charges using Excel.
 # Healthcare Insurance Charges: Exploratory Data Analysis & Statistical Analysis
 
 ## Project Overview
